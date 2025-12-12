@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saam-portfolio/static/css/main.b0942179.css",
+    "main.js": "/saam-portfolio/static/js/main.b28967de.js",
+    "index.html": "/saam-portfolio/index.html",
+    "main.b0942179.css.map": "/saam-portfolio/static/css/main.b0942179.css.map",
+    "main.b28967de.js.map": "/saam-portfolio/static/js/main.b28967de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0942179.css",
+    "static/js/main.b28967de.js"
+  ]
+}
