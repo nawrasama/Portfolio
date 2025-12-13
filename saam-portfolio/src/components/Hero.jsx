@@ -77,7 +77,7 @@ const Hero = () => {
           e.currentTarget.style.transform = 'scale(1)';
         }}>
           <img 
-            src="/Portfolio/images/profile.jpg" 
+            src="./images/profile.jpg" 
             alt="Nawrasama" 
             style={{
               width: '100%',
