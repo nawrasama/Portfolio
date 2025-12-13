@@ -18,7 +18,7 @@ A modern, responsive portfolio website built with React.js to showcase my projec
 - React Hooks- State and lifecycle management
 - Git & GitHub - Version control and deployment
 - npm - Package management
-- GitHub Pages - Deployment (choose one)
+- Vercel - Deployment 
 
 #screenshots
 <img width="1900" height="884" alt="image" src="https://github.com/user-attachments/assets/c8eccb9e-709a-47a9-b972-ab9e3db20948" />
