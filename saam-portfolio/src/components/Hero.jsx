@@ -5,7 +5,7 @@ const Hero = () => {
     e.preventDefault(); // Prevent default link behavior
     
     // Path to your resume file - CORRECTED for GitHub Pages
-    const resumePath = '/Portfolio/resume.pdf';
+    const resumePath = '/resume.pdf';
     
     console.log('Downloading resume from:', resumePath);
     
