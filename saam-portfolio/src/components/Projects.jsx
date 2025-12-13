@@ -60,7 +60,7 @@ const Projects = () => {
     <section 
       id="projects" 
       style={{
-        backgroundImage: "url('/images/bg.jpg')",
+        backgroundImage: "url('./images/bg.jpg')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed',

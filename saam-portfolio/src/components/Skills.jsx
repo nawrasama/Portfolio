@@ -5,42 +5,42 @@ const Skills = () => {
     { 
       name: 'HTML', 
       description: 'Building structured web content', 
-      icon: '/images/html.jpg' 
+      icon: './images/html.jpg' 
     },
     { 
       name: 'CSS', 
       description: 'Styling and layout for modern web designs',
-      icon: '/images/css.jpg' 
+      icon: './images/css.jpg' 
     },
     { 
       name: 'JavaScript', 
       description: 'Building interactive and dynamic web applications',
-      icon: '/images/js.png' 
+      icon: './images/js.png' 
     },
     { 
       name: 'React', 
       description: 'Building interactive UIs with state management',
-      icon: '/images/react.png' 
+      icon: './images/react.png' 
     },
     { 
       name: 'Node.js', 
       description: 'Building scalable server-side applications',
-      icon: '/images/nodejs.png' 
+      icon: './images/nodejs.png' 
     },
     { 
       name: 'Express.js', 
       description: 'Lightweight web framework for building robust APIs and applications.',
-      icon: '/images/expressjs.png' 
+      icon: './images/expressjs.png' 
     },
     { 
       name: 'MongoDB', 
       description: 'NoSQL database for storing and managing high-volume data efficiently.',
-      icon: '/images/mongodb.jpg' 
+      icon: './images/mongodb.jpg' 
     },
     { 
       name: 'Firebase', 
       description: 'Backend-as-a-Service for fast app development',
-      icon: '/images/firebase.png' 
+      icon: './images/firebase.png' 
     },
   ];
 
@@ -48,7 +48,7 @@ const Skills = () => {
     <section 
       id="skills" 
       style={{
-        backgroundImage: "url('/images/bg.jpg')",
+        backgroundImage: "url('./images/bg.jpg')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed',

@@ -4,8 +4,8 @@ const Hero = () => {
   const handleDownloadResume = (e) => {
     e.preventDefault(); // Prevent default link behavior
     
-    // Path to your resume file - CORRECTED to match your filename
-    const resumePath = '/resume.pdf';
+    // Path to your resume file - CORRECTED for GitHub Pages
+    const resumePath = '/Portfolio/resume.pdf';
     
     console.log('Downloading resume from:', resumePath);
     
@@ -26,7 +26,7 @@ const Hero = () => {
     <section 
       id="home" 
       style={{
-        backgroundImage: `url('/images/bg3.jpg')`,
+        backgroundImage: `url('/Portfolio/images/bg3.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
@@ -77,7 +77,7 @@ const Hero = () => {
           e.currentTarget.style.transform = 'scale(1)';
         }}>
           <img 
-            src="/images/profile.jpg" 
+            src="/Portfolio/images/profile.jpg" 
             alt="Nawrasama" 
             style={{
               width: '100%',
